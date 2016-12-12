@@ -21,12 +21,16 @@
 # Registers:
 
 # File marks:
-'0  6  6  ~/README.md
+'0  6  11  ~/README.md
 '1  2  407  ~/.ssh/authorized_keys
 
 # Jumplist (newest first):
--'  6  6  ~/README.md
+-'  6  11  ~/README.md
 -'  1  0  ~/README.md
+-'  2  407  ~/.ssh/authorized_keys
+-'  1  0  ~/.ssh/authorized_keys
+-'  2  407  ~/.ssh/authorized_keys
+-'  1  0  ~/.ssh/authorized_keys
 -'  2  407  ~/.ssh/authorized_keys
 -'  1  0  ~/.ssh/authorized_keys
 -'  2  407  ~/.ssh/authorized_keys
@@ -35,10 +39,11 @@
 # History of marks within files (newest to oldest):
 
 > ~/README.md
-	"	6	6
-	^	6	0
-	.	5	14
+	"	6	11
+	^	6	12
+	.	6	11
 	+	5	14
+	+	6	11
 
 > ~/.ssh/authorized_keys
 	"	2	407
