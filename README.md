@@ -1,6 +1,7 @@
 # test-repo
-hai ashish
+hai 
 you have good knowledge
-
+about git hub 
 now edited by 
-cmdline
+browser
+
